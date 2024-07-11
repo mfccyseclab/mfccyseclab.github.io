@@ -15,3 +15,6 @@
 5. Save and Commit git change
 6. Push to remote server
 7. Create pull request (pr)
+
+
+8. Hi! This is my contribution- Lawrence
